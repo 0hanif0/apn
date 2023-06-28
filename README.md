@@ -1,6 +1,4 @@
-# apn
-
-senarai APN
+# Senarai APN Telco Malaysia
 
 # MAXIS
 Name: Maxis 3G Internet
