@@ -38,6 +38,7 @@
 # CELCOM
 - APN : celcom3g 
   - Can also use APN: celcom3gmcc
+  - celcom4g
 - MCC : 502
 - MNC : 19
 - APN type : default
@@ -49,11 +50,17 @@
 - MCC : 502
 - MNC : 19
 - APN type : mms
+  - default,supl,mms
+  - 
+- APN protocol: Ipv4
+- Enable/disable APN: APN Enabled
 
 # DIGI
 - Name: DiGi Internet
+  - space 5 times
 - APN: diginet
   - FOR DATA ONLY PLAN, USE APN: 3gdgnet
+  - space 5 times
 - Proxy:
 - Port:
 - Username:
